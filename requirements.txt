@@ -1,0 +1,8 @@
+# Smart LLM — Core dependencies
+openai>=1.50.0
+httpx>=0.27.0
+
+# Storage backends (install as needed)
+aiosqlite>=0.20.0          # SQLite async backend (default)
+# aiomysql>=0.2.0          # Uncomment for MySQL support
+# sqlalchemy>=2.0           # Uncomment for MySQL support
