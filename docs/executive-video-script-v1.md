@@ -182,3 +182,39 @@
 **Scene 28:** "Third: The Smart Client. For developers, it's one simple call. Complexity is handled under the hood."  
 **Scene 29:** "In conclusion, Smart LLM is about Operational Excellence. High-quality deliverables at zero-to-low cost."  
 **Scene 30:** "Build for the future. Contain your costs today. This is Smart LLM."
+
+---
+
+## TTS Voiceover Transcript
+
+"In the modern corporate landscape, the promise of Agentic AI is undeniable. 
+We are automating complex workflows and extracting structured intelligence from vast datasets. 
+Iterative designs that once took humans weeks to complete are now finished in minutes. 
+But as we switch from pilot projects to full-scale production, we hit a barrier. 
+We call this the 'LLM Cost Cliff.' High-volume processes on frontier models are commercially unsustainable. 
+The concern is simple: How do we maintain high-quality deliverables while strictly containing costs? 
+Most systems hardcode a 'cheap' model. But this introduces brittleness—if it throttles, you stop. 
+We built the Smart LLM Module to solve this. It's a self-tuning, resilient engine. 
+The heart of our value proposition is the 'Local-First' priority chain. 
+We often have the hardware to run powerful local models within our own secure infrastructure. 
+Smart LLM integrates directly with Ollama. If a local model responds, your cost is zero. 
+For cloud production, the system seamlessly transitions to a global network of providers. 
+It utilizes 'Free-tier' models, maintaining a dynamic registry of high-performing assets. 
+What makes this module 'Smart' is its ability to self-correct and self-tune. 
+Every 15 minutes, invisible health probes check the registry for health, speed, and throttling. 
+The Ranking Engine combines 15-minute live data with a 7-day rolling history of your calls. 
+It identifies patterns. If a model gets slow every Tuesday at 4 PM, the Ranker knows. 
+It pivots your traffic away before the failure happens, ensuring zero downtime. 
+Large corporates require flexibility. Smart LLM was engineered with pluggable storage. 
+During R&D, developers can use JSON or SQLite for portable, zero-setup environments. 
+In production, point to MySQL or PostgreSQL to share performance intelligence across your entire global fleet. 
+If one node discovers a throttled model, the whole fleet pivots away within seconds. 
+This ensures that high-volume, iterative processes run with maximum efficiency and minimum latency. 
+To wrap up, let's look at the three main functions of the code. 
+First: The Registry Manager. It's the scout, scanning catalogues monthly for new free candidates. 
+It runs Quality Probes, ensuring new models can handle structured JSON before touching production. 
+Second: The Model Selector. It handles the scoring logic and the aggressive dynamic timeouts. 
+Third: The Smart Client. For developers, it's one simple call. Complexity is handled under the hood. 
+In conclusion, the Smart LLM Module is about Operational Excellence. High-quality deliverables at zero-to-low cost. 
+Build for the future. Contain your costs today. This is Smart LLM."
+
